@@ -1,5 +1,6 @@
-Continuous Integration Demo
-============================
+Lab 05
+======
+[![Unit tests](https://github.com/fatalaijon/demo-ci/actions/workflows/python-app.yml/badge.svg)](https://github.com/fatalaijon/demo-ci/actions/workflows/python-app.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 Create a repository on Github, then use Github Actions to build and test it.
